@@ -1,0 +1,66 @@
+BODY	{
+	FONT-FAMILY: Times;
+	FONT-SIZE: 12pt;
+	COLOR: black;
+        background-color: #aabbaa;
+	}
+
+P	{
+	text-align:center
+	}
+
+LI	{
+	text-align:left
+	}
+
+UL	{
+	text-align:left
+	}
+
+TD	{
+	text-align : justify;
+	}
+
+A	{
+	font-style: italic;
+        font-weight: bold 
+	}
+
+A:hover {
+	COLOR: #0EC0F0;
+	}
+
+A:link	{
+	COLOR: #046D8A
+	}
+
+A:visited	{
+		COLOR: 909090
+		}
+
+A:active	{
+		COLOR: #6D869C
+		}
+
+EMBED	{
+	visibility: hidden
+	}
+
+UL	{
+	font-family: helvetica;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 11pt;
+	text-indent: 15;
+	color: LIGHTSTEELBLUE	 
+	}
+
+IMG	{
+	border-width: 0;
+	}
+
+TABLE	{
+	border-width: 0;
+	padding: 5;
+	margin: 5;
+	}
