@@ -62,5 +62,11 @@ IMG	{
 TABLE	{
 	border-width: 0;
 	padding: 5;
-	margin: 5;
+	margin: 5
 	}
+TR {
+	padding: 5
+}
+TD {
+	padding: 5
+}
