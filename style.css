@@ -1,8 +1,7 @@
-BODY	{
-	FONT-FAMILY: Times;
+BODY {FONT-FAMILY: Times;
 	FONT-SIZE: 12pt;
 	COLOR: black;
-        background-color: #aabbaa;
+    background-color: #aabbaa;
 	}
 
 P	{
@@ -35,37 +34,43 @@ A:link	{
 	}
 
 A:visited	{
-		COLOR: 909090
+		COLOR: #909090
 		}
 
 A:active	{
 		COLOR: #6D869C
 		}
 
-EMBED	{
-	visibility: hidden
-	}
-
 UL	{
 	font-family: helvetica;
 	font-style: italic;
 	font-weight: bold;
 	font-size: 11pt;
-	text-indent: 15
+	text-indent: 15px
 	}
 
+IFRAME {
+	border-style: double;
+	border-width: 3px;
+	border-color: #046D8A;
+}
+
 IMG	{
-	border-width: 0;
+	border-style: double;
+	border-width: 3px;
+	border-color: #046D8A;
+	margin-top: 5px;
+	margin-bottom: 5px;
 	}
 
 TABLE	{
-	border-width: 0;
-	padding: 5;
-	margin: 5
+	border-width: 0px;
+	padding: 5px;
+	margin: 5px
 	}
 TR {
-	padding: 5
+	padding: 5px
 }
 TD {
-	padding: 5
+	padding: 5px
 }
